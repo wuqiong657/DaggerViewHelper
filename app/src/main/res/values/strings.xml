@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_register">注册</string>
+    <string name="app_login">登录</string>
+    <string name="app_reget_login_pwd">找回登陆密码</string>
+    <string name="app_news_list">新闻列表</string>
+    <string name="app_gallery">画廊效果</string>
+    <string name="app_freelayout">随意拖动的视图</string>
+    <string name="app_dragging_layout">拖动面板</string>
+    <string name="hint_input_phone">请输入手机号</string>
+    <string name="hint_input_pwd">请输入密码</string>
+    <string name="hint_input_sms_code">请输入验证码</string>
+    <string name="text_info">对于题主的困惑，我可能有一定的感同身受。因为我Java EE 和Android都接触过，而现在在做Android实习。先学校学的javaEE的入门，后来自己突然自学了下Android。现在两者都算有点基础，但是学JavaEE的时候被框架啊什么的唬住了，还有就是当时用的MyEclipse感觉各种坑各种卡（可能怪我电脑咯），加上一些网页布局的能力缺陷，课学完就没去碰了。学习Android则是一来自己使用的Android手机，二来想自己给自己做App用。
+谈到未来前景，这个问题我找实习的时候也思考过。其实答案也是很明朗的，世事叵测，风云变幻。何况你学了Android就一定要做一辈子Android么，培训了以后就会做技术相关岗位么？都难讲。之前听过一个学长讲，有同学学的C，面试也面试的C，进公司被分配去写Java，最后听说也适配了，做的有滋有味。
+总之，根据兴趣等主观因素选择会好很多，往前走，再选择，再往前走。。。
+即使不好，但好歹也是一段经历。</string>
+</resources>

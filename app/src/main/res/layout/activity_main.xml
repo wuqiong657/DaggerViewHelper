@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin" >
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <Button
+                android:id="@+id/bt_6"
+                style="@style/base_wm_hw_text_color_gray_33"
+                android:layout_marginTop="8dp"
+                android:text="随意拖动" />
+
+            <Button
+                android:id="@+id/bt_7"
+                style="@style/base_wm_hw_text_color_gray_33"
+                android:layout_marginTop="8dp"
+                android:text="仿猿题库-拖动面板" />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>
